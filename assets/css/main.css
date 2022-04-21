@@ -2751,8 +2751,8 @@ ul.actions.formo {
 }
 
 ul.actions.header {
-  justify-content: right;
-  padding-top: 1em;
+  justify-content: center;
+  padding-top: 2em;
 }
 
 ul.actions li {
@@ -4096,8 +4096,8 @@ body.is-touch #banner {
   }
 
   #titleBar .toggle:before {
-    background: #e44c65;
-    color: rgba(255, 255, 255, 0.5);
+    background: transparent;
+    color: rgb(255, 255, 255);
     content: "\f0c9";
     display: block;
     font-size: 18px;
